@@ -1,10 +1,14 @@
 # flexbox-20-days
 
-Day - 2
+Day - 3
 
-Flex direction
+Flex Wrap
 
-How it deals with axis, main axis & cross axis
+Wrapping elements with Flexbox
 
-1. Learned about axis in browser.
-2. Played around direction properties of flex, that was intresting tbh!
+By default it's no wrap
+
+How it behaves with combination of flex-direction.
+
+1. Learned about flex-wrap property.
+
