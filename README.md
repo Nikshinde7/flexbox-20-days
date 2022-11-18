@@ -1,14 +1,12 @@
 # flexbox-20-days
 
-Day - 3
+Day - 4
 
-Flex Wrap
+Flexbox ordering
 
-Wrapping elements with Flexbox
+A way to move order of your DOM elements
 
-By default it's no wrap
+The default value for order is 0 for all elements.
 
-How it behaves with combination of flex-direction.
-
-1. Learned about flex-wrap property.
-
+1. Learned about order property in flex.
+2. Tried combining the other properties of flex with order.
