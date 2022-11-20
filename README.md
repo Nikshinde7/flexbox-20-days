@@ -1,10 +1,12 @@
 # flexbox-20-days
 
-Day - 5
+Day - 6
 
-Justify-content
+Align items
 
-So it says that are how the items are aligned on the main axis.
+By default it is set to stretch.
 
-1. Learned about Justify-Content property.
-2. Tried different use cases by combining the property with flex-direction.
+It deals with cross axis & needs a height to work.
+
+1. Learned about the align-items property.
+2. Played with some use cases to get better grip on vertically aligning the item from axis.

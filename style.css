@@ -29,5 +29,7 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 
 .container{
   display: flex;
-  justify-content: center;
+  height: 100vh;
+  border: 10px solid mistyrose;
+  align-items: center;
 }
