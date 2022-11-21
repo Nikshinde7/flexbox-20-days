@@ -31,5 +31,11 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   display: flex;
   height: 100vh;
   border: 10px solid mistyrose;
-  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+}
+
+.box{
+  width: 33.333%;
 }

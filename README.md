@@ -1,12 +1,10 @@
 # flexbox-20-days
 
-Day - 6
+Day - 7
+Align content
 
-Align items
+By Default it is set to stretch 
+It takes the extra space on the cross axis and splits it up & we need a wrap around it to make it work.
 
-By default it is set to stretch.
-
-It deals with cross axis & needs a height to work.
-
-1. Learned about the align-items property.
-2. Played with some use cases to get better grip on vertically aligning the item from axis.
+1. Learned about arranging the items vertically.
+2. Paired it with justify-content to see the magic of working with both the axises.
