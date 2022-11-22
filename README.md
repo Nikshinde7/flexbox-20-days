@@ -1,10 +1,10 @@
 # flexbox-20-days
 
-Day - 7
-Align content
+Day - 8
 
-By Default it is set to stretch 
-It takes the extra space on the cross axis and splits it up & we need a wrap around it to make it work.
+Alignment and Centering with align-self
 
-1. Learned about arranging the items vertically.
-2. Paired it with justify-content to see the magic of working with both the axises.
+Kinda similar to align-items, but we can apply it on individual flex item.
+
+1. Learned about the align-self property.
+2. Tried aligning different items with align-self.

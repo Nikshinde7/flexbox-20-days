@@ -31,11 +31,22 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
   display: flex;
   height: 100vh;
   border: 10px solid mistyrose;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-content: center;
+  align-items: flex-start;
 }
 
 .box{
   width: 33.333%;
+}
+
+.box2{
+  padding-bottom: 200px;
+}
+
+.box6{
+  padding-bottom: 0px;
+}
+
+.box9{
+  padding-bottom: 50px;
+  align-self: flex-end;
 }
