@@ -1,10 +1,9 @@
 # flexbox-20-days
 
-Day - 8
+Day - 9
 
-Alignment and Centering with align-self
+Understanding Flexbox sizing with the flex property
 
-Kinda similar to align-items, but we can apply it on individual flex item.
+It is really good to see the impact flexbox model does on the webpage design.
 
-1. Learned about the align-self property.
-2. Tried aligning different items with align-self.
+1. Spent some time learning around the fundamentals of flexbox sizing.
