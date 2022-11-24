@@ -1,9 +1,9 @@
 # flexbox-20-days
 
-Day - 9
+Day - 10
 
-Understanding Flexbox sizing with the flex property
+Understanding Flexbox flex-grow, flex-shrink and flex-basis
 
-It is really good to see the impact flexbox model does on the webpage design.
-
-1. Spent some time learning around the fundamentals of flexbox sizing.
+Flex grow is how do we deal with the extra space available to us 
+Flex shrink is how do we slim ourselves down, when there isn't enough space available.
+Flex basis is what the default space will be before remaining space is distributed.
