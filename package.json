@@ -1,0 +1,22 @@
+{
+  "name": "flexbox-20-days",
+  "version": "1.0.0",
+  "description": "Day - 12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://g"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^8.0.0"
+  }
+}
