@@ -1,10 +1,11 @@
 # flexbox-20-days
 
-Day - 12
+Day - 13
 
-Cross browser suport, Auto prefixer
+Flex-Nav
 
-Learned about cross browser support & how it can affect our CSS if not taken in consideration.
-Also, implemented a Aut Prefixer with the help of gulp which watches our CSS files as we change them and generates a new file with Auto prefixed CSS 
+We created a flexibleee navigation bar today with the help of mihty flexbox!!!
 
-1. Created a Auto prefixer with Gulp
+1. Refreshed my learnings on how to make use of flex (shorthand for grow, shrink, basis) to align elements.
+2. Used media query to make an utterly responsive Navbar!!
+
