@@ -1,11 +1,12 @@
 # flexbox-20-days
 
-Day - 13
+Day - 14
 
-Flex-Nav
+Reordering content when you hit a certain breakpoint
 
-We created a flexibleee navigation bar today with the help of mihty flexbox!!!
+Mobile content reordering with Flexbox
 
-1. Refreshed my learnings on how to make use of flex (shorthand for grow, shrink, basis) to align elements.
-2. Used media query to make an utterly responsive Navbar!!
+Today we reordered the content when we hit a certain breakpoint(i.e 500px)
 
+1. Made use of bunch of flex props, such as order, flex-direction etc.
+2. Learned about how we can order/reorder the content with ease in flex
