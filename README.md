@@ -1,8 +1,11 @@
 # flexbox-20-days
 
-Day - 15
+Day - 16
 
-Nesting Flexbox for vertical and horizontal centering with Flexbox
+Designing a Pricing grid with flexbox
 
-So today, we created a basic UI where we tried to center the elements vertically, to achieve that we 
-needed to nest the flexbox!!!
+Today, We created a coooool pricing grid, which resemebles the UI of most the pricing grids out there.
+
+We nested the flexbox structure here to get a better grip on aligning our elements!!
+
+Kudos!!
