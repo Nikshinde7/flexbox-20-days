@@ -1,11 +1,10 @@
 # flexbox-20-days
 
-Day - 16
+Day - 17
 
-Designing a Pricing grid with flexbox
+Flexbox Equal height columns and leftover elements
 
-Today, We created a coooool pricing grid, which resemebles the UI of most the pricing grids out there.
+So, today we created a page which contained multiple columns with small/large font heights.
+With the mighty flexbox we tried to align them vertically also dealing with the extra space around them.
 
-We nested the flexbox structure here to get a better grip on aligning our elements!!
-
-Kudos!!
+Wohooo!
