@@ -1,10 +1,11 @@
 # flexbox-20-days
 
-Day - 17
+Day - 18
 
-Flexbox Equal height columns and leftover elements
+Flexbox single line form
 
-So, today we created a page which contained multiple columns with small/large font heights.
-With the mighty flexbox we tried to align them vertically also dealing with the extra space around them.
 
-Wohooo!
+Ghost space => Inputs are inline by default , they just put some space in between
+
+Created a cooool single line form, which is more like we find on travel booking sites.
+Summed up the flexbox learning to create this UI element!!
