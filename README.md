@@ -1,11 +1,9 @@
 # flexbox-20-days
 
-Day - 18
+Day - 19
 
-Flexbox single line form
+Create a mobile app layout with Flexbox
 
+We tried to create a responsiveee mobile app UI, but without using media queries, no floats. no widhts, no heights! Ah, that took a while to do, but it was worth it!
 
-Ghost space => Inputs are inline by default , they just put some space in between
-
-Created a cooool single line form, which is more like we find on travel booking sites.
-Summed up the flexbox learning to create this UI element!!
+So, if we would have tried to create the same UI with box-model. Yeah it would have taken a lot of time & a lot of floats, margins, padding & whatnot!! But with the power of the mighty flexbox, just few lines are enough!
